@@ -1,0 +1,20 @@
+SMAP
+getdisapprove_jsp.java
+JSP
+*S JSP
+*F
++ 0 getdisapprove.jsp
+getdisapprove.jsp
+*L
+1,29:46
+29,7:75
+35,2:82
+37,2:84,3
+39:90
+39,3:90
+41,11:93
+51:103,2
+54,5:107
+58,6:112
+63,15:118
+*E
